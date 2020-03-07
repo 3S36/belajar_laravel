@@ -8,7 +8,7 @@
 					<thead>
 						<tr>
 							<td>Nama</td>
-							<td>Deskripsi</td>
+							<td>Deskription</td>
 							<td width="20%">Aksi</td>
 						</tr>
 					</thead>
